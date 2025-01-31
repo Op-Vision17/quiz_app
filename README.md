@@ -1,16 +1,39 @@
-# quiz_app
+# Quizzy - Quiz App
+## Overview
+Quizzy is a beautifully designed quiz application built with Flutter that combines elegant user interface with seamless functionality. The app fetches questions from an API and presents them in a visually appealing way, making the quiz-taking experience both engaging and enjoyable.
 
-A new Flutter project.
+## Features
+### Elegant User Interface
+- Modern Material Design implementation
+- Smooth animations and transitions
+- Custom-designed question cards with attractive shadows
+- Beautiful color schemes
+- Interactive feedback animations for correct/incorrect answers
 
-## Getting Started
+### Functionality
+- Fetches quiz questions from API
+- Real-time score tracking
+- Animated progress indicator
+- Results summary with attractive data visualization
+- Smooth screen transitions
 
-This project is a starting point for a Flutter application.
+## Screenshots
+### Home Screen
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/9507c80b-a973-447f-9575-a3aa3e60691b" width="400" alt="SplashScreen">
+  <img src="https://github.com/user-attachments/assets/3adf99d2-054a-4907-ae33-d89bebf031b5" width="400" alt="Home Screen">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### Quiz Interface
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/d6f9e1dd-0b5e-499f-81f5-4f3d48b88897" width="400" alt="Question">
+  <img src="https://github.com/user-attachments/assets/aa176871-2904-4e29-8992-bca80ab862ef" width="400" alt="Question">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Results Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecfceb82-0e7e-4826-8805-c90f45367bdf" width="400" alt="Score Summary">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video
+[Watch the demo video](https://github.com/user-attachments/assets/86e82c10-096d-4e7f-9435-b9aa1c779e3b)
